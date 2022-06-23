@@ -117,7 +117,7 @@ Unwanted Language:          1
 Already Claimed:            93
 Expired:                    7
 Total Enrolments:           1705
-Savings:                    €2674.44
+Savings:                    €26784.44
 ================== Run Statistics ==================
 ```
 	
