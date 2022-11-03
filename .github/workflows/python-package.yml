@@ -51,6 +51,6 @@ jobs:
       env:
         UDEMY_EMAIL: ${{ secrets.UDEMY_EMAIL }}
         UDEMY_PASSWORD: ${{ secrets.UDEMY_PASSWORD }}
-        CI_TEST: "True"
+        
       run: |
         poetry run python udemy_enroller.py --browser=chrome --debug
